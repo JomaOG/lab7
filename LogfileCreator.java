@@ -17,6 +17,8 @@ public class LogfileCreator
     public LogfileCreator()
     {
         rand = new Random();
+        //Creating file so that I do not need to keep creating to test
+        createFile("Test1",1000);
     }
     
     /**
@@ -65,5 +67,4 @@ public class LogfileCreator
         int minute = rand.nextInt(60);
         return new LogEntry(year, month, day, hour, minute);
     }
-
 }

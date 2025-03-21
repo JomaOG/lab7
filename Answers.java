@@ -42,9 +42,11 @@ public class Answers
         
     // Question 9:
     //     ava.lang.ArrayIndexOutOfBoundsException: Index 24 out of bounds for length 24
-	// at LogAnalyzer.printHourlyCounts(LogAnalyzer.java:47)
-	
-    // Question
+    //     at LogAnalyzer.printHourlyCounts(LogAnalyzer.java:47)
+    
+    // Question 17:
+    //     if my sign is >  then it only takes the earliest if there is a tie
+    //     if my sign is >= then it takes the latest if there is a tie
 
         
 }
