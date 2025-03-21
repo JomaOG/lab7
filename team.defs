@@ -1,0 +1,17 @@
+#Fri Mar 21 15:23:46 EDT 2025
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/JomaOG/lab7
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=JomaOG
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=Oliverjoma03+1@gmail.com
+bluej.teamsettings.yourName=Joma Oliver
