@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Answers
+public class AnswersPart1
 {
     // Question 1:
     //     The afternoon;
@@ -35,7 +35,7 @@ public class Answers
     //     TicketMachine[] machines = new TicketMachine[5];
         
     // Question 7:
-    //     20 Strings
+    //     1 String
         
     // Question 8:
     //     using () instead of [];
